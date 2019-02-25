@@ -1,78 +1,129 @@
-# Mighty_pythonminecraft
+# Python Basic
 
-Python Minecraft
+Python Basic
 ====================
 
-    Python Minecraft
+    Python Basic
 
-written by sean base on following books
+written by bibi  base on following books
 
-![Alt logo]( https://mighty-python-minecraft.readthedocs.io/ko/latest/_images/chapter0_4.png)
-![Alt book ]( https://mighty-python-minecraft.readthedocs.io/ko/latest/_images/chapter0_3.png)
+![Alt book ]( https://python-basic.readthedocs.io/ko/latest/_images/chapter0_3.png)
 
-"Index"  https://mighty-python-minecraft.readthedocs.io/ko/latest/index.html
+"Index"  https://python-basic.readthedocs.io/ko/latest/
 
-chapter 1: Setting Up for Your Adventure
+파트 1
+======
+
+chapter 1: Talking to Your Computer
 ============================================
-"Chapter 1"  https://mighty-python-minecraft.readthedocs.io/ko/latest/chapter1-1.html
+"Chapter 1"  https://python-basic.readthedocs.io/ko/latest/chapter1.html
 
 
-chapter 2: 변수로 이동하기
-=========================================
-"Chapter 2"  https://mighty-python-minecraft.readthedocs.io/ko/latest/chapter1-2.html
-
-
-chapter 3: Building Quickly and Traveling Far with Math
-==========================================================
-"Chapter 3"  https://mighty-python-minecraft.readthedocs.io/ko/latest/chapter1-3.html
-
-
-
-chapter 4: Chatting with Strings
-=====================================
-"Chapter 4"  https://mighty-python-minecraft.readthedocs.io/ko/latest/chapter1-4.html
-
-
-
-chapter 5: Figuring Out What’s True and False with Booleans
-===============================================================
-"Chapter 5"  https://mighty-python-minecraft.readthedocs.io/ko/latest/chapter1-5.html
-
-
-
-chapter 6: Making Mini-Games with if Statements
-=================================================
-"Chapter 6"  https://mighty-python-minecraft.readthedocs.io/ko/latest/chapter1-6.html
-
-
-
-chapter 7: Dance Parties and Flower Parades with while Loops
-==============================================================
-"Chapter 7"  https://mighty-python-minecraft.readthedocs.io/ko/latest/chapter1-7.html
-
-
-chapter 8: Functions Give You Superpowers
+chapter 2: Getting Your Own Copy of Python
 =============================================
-"Chapter 8"  https://mighty-python-minecraft.readthedocs.io/ko/latest/chapter1-8.html
+"Chapter 2"  https://python-basic.readthedocs.io/ko/latest/chapter2.html
+
+
+chapter 3: Interacting with Python
+==========================================================
+"Chapter 3"  https://python-basic.readthedocs.io/ko/latest/chapter3.html
 
 
 
-chapter 9: Hitting Things with Lists and Dictionaries
+chapter 4: Writing Your First Application
+==============================================
+"Chapter 4"  https://python-basic.readthedocs.io/ko/latest/chapter4.html
+
+
+파트 2
+======
+
+chapter 5: Storing and Modifying Information
+===============================================================
+"Chapter 5"  https://python-basic.readthedocs.io/ko/latest/chapter5.html
+
+
+
+chapter 6: Managing Information
+=================================================
+"Chapter 6"  https://python-basic.readthedocs.io/ko/latest/chapter6.html
+
+
+
+chapter 7: Making Decisions
+==============================================================
+"Chapter 7"  https://python-basic.readthedocs.io/ko/latest/chapter7.html
+
+
+chapter 8: Performing Repetitive Tasks
+=============================================
+"Chapter 8"  https://python-basic.readthedocs.io/ko/latest/chapter8.html
+
+
+
+chapter 9: Dealing with Errors
 ========================================================
-"Chapter 9"  https://mighty-python-minecraft.readthedocs.io/ko/latest/chapter1-9.html
+"Chapter 9"  https://python-basic.readthedocs.io/ko/latest/chapter9.html
 
 
-chapter 10: Minecraft Magic with for Loops
+파트 3
+======
+
+chapter 10: Interacting with Modules
 ===============================================
-"Chapter 10"  https://mighty-python-minecraft.readthedocs.io/ko/latest/chapter1-10.html
+"Chapter 10"  https://python-basic.readthedocs.io/ko/latest/chapter10.html
 
 
-chapter 11: Saving and Loading Buildings with  Files and Modules
+chapter 11: Working with Strings
 ===================================================================
-"Chapter 11" https://mighty-python-minecraft.readthedocs.io/ko/latest/chapter1-11.html
+"Chapter 11" https://python-basic.readthedocs.io/ko/latest/chapter11.html
 
 
-chapter 12: Getting Classy with Object-Oriented Programming
+chapter 12: Managing Lists
 =============================================================
-"Chapter 11"  https://mighty-python-minecraft.readthedocs.io/ko/latest/chapter1-12.html
+"Chapter 12"  https://python-basic.readthedocs.io/ko/latest/chapter12.html
 
+
+chapter 13:  Collecting All Sorts of Data
+=============================================================
+"Chapter 13"  https://python-basic.readthedocs.io/ko/latest/chapter13.html
+
+
+chapter 14: Creating and Using Classes
+=============================================================
+"Chapter 14"  https://python-basic.readthedocs.io/ko/latest/chapter14.html
+
+파트 4
+======
+
+chapter 15: Storing Data in Files
+=============================================================
+"Chapter 15"  https://python-basic.readthedocs.io/ko/latest/chapter15.html
+
+chapter 16: Sending an E-Mail
+=============================================================
+"Chapter 16"  https://python-basic.readthedocs.io/ko/latest/chapter16.html
+
+
+
+파트 5
+======
+
+chapter 17: Ten Amazing Programming Resources
+=============================================================
+"Chapter 17"  https://python-basic.readthedocs.io/ko/latest/chapter17.html
+
+
+chapter 18: Ten Ways to Make a Living with Py thon
+=============================================================
+"Chapter 18"  https://python-basic.readthedocs.io/ko/latest/chapter18.html
+
+
+chapter 19: Ten Interesting Tools
+=============================================================
+"Chapter 19"  https://python-basic.readthedocs.io/ko/latest/chapter19.html
+
+
+chapter 20: Ten Libraries You Need to Know About
+=============================================================
+"Chapter 20"  https://python-basic.readthedocs.io/ko/latest/chapter20.html
