@@ -3,7 +3,7 @@ Python Basic
 
     Python Basic
 
-      written by sean base on following books
+      written by bibi base on following books
 
 
 
