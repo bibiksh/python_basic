@@ -5,7 +5,7 @@ Python Basic
 
       written by bibi  base on following books
 
-.. image:: ./img/chapter0_4.png
+
 
 .. image:: ./img/chapter0_3.png
 
