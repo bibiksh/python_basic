@@ -1,4 +1,4 @@
-chapter 10: Minecraft Magic with for Loops
+chapter 10: Interacting with Modules.
 ===============================================
 
 

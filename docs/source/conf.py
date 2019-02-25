@@ -19,14 +19,14 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Python Basic'
+project = 'Python Basic '
 copyright = '2018, bibi'
 author = 'bibi'
 
 # The short X.Y version
 version = ''
 # The full version, including alpha/beta/rc tags
-release = 'DEV'
+release = 'REL'
 
 
 # -- General configuration ---------------------------------------------------
@@ -105,7 +105,7 @@ html_static_path = ['_static']
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'pythonbasicdoc'
+htmlhelp_basename = 'pythonbasic2doc'
 
 
 # -- Options for LaTeX output ------------------------------------------------
@@ -132,7 +132,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'pythonbasic.tex', 'pythonbasic Documentation',
+    (master_doc, 'pythonbasic.tex', 'Python basic Documentation',
      'sean', 'manual'),
 ]
 

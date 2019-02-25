@@ -1,5 +1,5 @@
-chapter 1: Setting Up for Your Adventure
-============================================
+chapter 5: Storing and Modifying Information
+===============================================
 
 
 1.1 Setting Up Your Windows PC
