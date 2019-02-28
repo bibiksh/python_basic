@@ -6,6 +6,7 @@ Python Basic
       written by bibi  base on following books
 
 
+   this is test 
 
 .. image:: ./img/chapter0_3.png
 
